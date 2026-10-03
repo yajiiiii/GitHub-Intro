@@ -1,1 +1,3 @@
-print("Philly 2027 Championship!")
+print("Hello, World!")
+name = input("Enter your name? ")
+print(f"Hello, {name}!")
